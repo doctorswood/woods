@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
 
 .container, .container-sm, .container-md {
   margin-right: auto;
@@ -438,7 +438,7 @@ the display flex can serve as a backup. */
 }
 
 body {
-  font-family: 'Rampart One';
+  font-family: 'Major Mono Display';
   font-weight: 300;
   color: #fefffe;
   background: #111;
